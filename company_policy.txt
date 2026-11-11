@@ -1,0 +1,5 @@
+Thor Aurellius Corporate Deal & Vendor Policy
+Rule 1 (Payment Terms): All contracts must allow Net-45 days or longer for payment. Net-15 or Net-30 terms are strictly prohibited.
+Rule 2 (Data Residency): All customer and corporate data must be hosted exclusively on servers located within India.
+Rule 3 (Liability Cap): Vendor contracts must carry a liability cap of at least 2x the annual contract value.
+Rule 4 (Pricing & Margins): Any client discount above 15 percent or any deal yielding a net profit margin below 25 percent requires CFO sign-off.
